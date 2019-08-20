@@ -2,7 +2,7 @@
   "name": "ghostwriter",
   "version": "1.0.0",
   "description": "Enhanced port of the Ghost \"ghostwriter\" theme to the Hugo site generator.",
-  "repository": "git@github.com:jbub/ghostwriter.git",
+  "repository": "git@github.com:gisairo/ghostwriter.git",
   "author": "Juraj Bubniak <juraj.bubniak@gmail.com>",
   "license": "MIT",
   "scripts": {
